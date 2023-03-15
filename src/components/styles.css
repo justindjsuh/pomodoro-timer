@@ -1,0 +1,8 @@
+.timer__body {
+  width: 40vh;
+  height: 30vw;
+  border-radius: 50%;
+  border-radius: 50%;
+  background: linear-gradient(145deg, #14172c, #181b34);
+  box-shadow: 20px 20px 60px #13152a, -20px -20px 60px #191d38;
+}
